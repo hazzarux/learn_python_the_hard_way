@@ -9,3 +9,6 @@ With the tree double quotes
 We'll be able to type as much as we like
 """
 
+string = """here are the da''&" "'ys"""
+
+print string
